@@ -73,12 +73,6 @@ Heartbeat-Classifier/
 └── README.md
 ```
 
-## Current Status
-
-The preprocessing pipeline, CNN training implementation, evaluation logic and interactive visualiser are in place. Real-data training and evaluation using MIT-BIH are still pending.
-
-The browser visualiser currently uses synthetic ECG waveforms and does not perform model predictions.
-
 ## Disclaimer
 
 This project is intended for educational and research purposes only. It is not a medical diagnostic tool and must not be used for clinical decisions.
